@@ -1,0 +1,20 @@
+{
+  "name": "ecm963_p2",
+  "version": "1.0.0",
+  "main": "prova.js",
+  "scripts": {
+    "dev": "ts-node prova.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.10.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
